@@ -33,3 +33,16 @@ The dataset used in this project is the [Mall Customers Dataset](https://www.kag
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/customer-segmentation.git
+
+
+
+## Steps to Run the Project
+
+1. **Clone the Repository**:
+   First, clone the repository to your local machine using the following command:
+   ```bash
+   git clone https://github.com/yourusername/customer-segmentation.git
+
+
+pip install -r requirements.txt
+
